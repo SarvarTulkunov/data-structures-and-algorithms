@@ -4,8 +4,6 @@ public class P_121 {
 
     /**
      * Approach: sliding window
-     * Input: prices = [10,1,5,6,7,1]
-     * Output: 6
      */
     public static int maxProfit(int[] prices) {
 
