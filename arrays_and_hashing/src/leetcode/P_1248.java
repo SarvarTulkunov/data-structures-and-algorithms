@@ -1,6 +1,5 @@
 package leetcode;
 
-import java.util.Arrays;
 
 /**
  * 1248. Count Number of Nice Subarrays
