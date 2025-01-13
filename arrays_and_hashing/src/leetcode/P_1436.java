@@ -4,7 +4,9 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-// 1436. Destination City
+/**
+ * 1436. Destination City
+ */
 public class P_1436 {
 
 //  ======================= SOLUTION - 1 =======================

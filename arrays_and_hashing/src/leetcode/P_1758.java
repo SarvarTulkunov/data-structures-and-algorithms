@@ -1,6 +1,8 @@
 package leetcode;
 
-// 1758. Minimum Changes To Make Alternating Binary String
+/**
+ * 1758. Minimum Changes To Make Alternating Binary String
+ */
 public class P_1758 {
 
     public int minOperations(String s) {

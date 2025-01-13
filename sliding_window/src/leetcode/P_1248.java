@@ -59,7 +59,7 @@ public class P_1248 {
 
     /**
      * Approach: Sliding window
-     * Optimize solution
+     * Optimized solution
      */
     public static int numberOfSubArrays(int[] A, int k) {
         int res = 0, i = 0, count = 0, n = A.length;

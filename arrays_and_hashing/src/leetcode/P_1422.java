@@ -1,6 +1,8 @@
 package leetcode;
 
-// 1422. Maximum Score After Splitting a String
+/**
+ * 1422. Maximum Score After Splitting a String
+ */
 public class P_1422 {
 
     public static int maxScore(String s) {
