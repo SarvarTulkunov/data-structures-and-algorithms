@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/arrays_and_hashing/arrays_and_hashing.iml" filepath="$PROJECT_DIR$/arrays_and_hashing/arrays_and_hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backtracking/backtracking.iml" filepath="$PROJECT_DIR$/backtracking/backtracking.iml" />
       <module fileurl="file://$PROJECT_DIR$/custom-data-structures/custom-data-structures.iml" filepath="$PROJECT_DIR$/custom-data-structures/custom-data-structures.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/data-structures-and-algorithms.iml" filepath="$PROJECT_DIR$/.idea/data-structures-and-algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/graphs/graphs.iml" filepath="$PROJECT_DIR$/graphs/graphs.iml" />
