@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/min_max_heap/min_max_heap.iml" filepath="$PROJECT_DIR$/min_max_heap/min_max_heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/sliding_window/sliding_window.iml" filepath="$PROJECT_DIR$/sliding_window/sliding_window.iml" />
       <module fileurl="file://$PROJECT_DIR$/subsets/subsets.iml" filepath="$PROJECT_DIR$/subsets/subsets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topological-sort/topological-sort.iml" filepath="$PROJECT_DIR$/topological-sort/topological-sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/trie/trie.iml" filepath="$PROJECT_DIR$/trie/trie.iml" />
       <module fileurl="file://$PROJECT_DIR$/two_pointers/two_pointers.iml" filepath="$PROJECT_DIR$/two_pointers/two_pointers.iml" />
     </modules>
