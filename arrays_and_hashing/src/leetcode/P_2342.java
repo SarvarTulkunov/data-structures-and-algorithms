@@ -18,14 +18,12 @@ public class P_2342 {
 
             List<Integer> currList = map.get(digitSum);
             currList.add(n);
-            currList.sort(Collections.reverseOrder()); // Keep list sorted in descending order
+            currList.sort(Collections.reverseOrder());
 
-            // Keep only the two largest numbers
             if (currList.size() > 2) {
                 currList.remove(2);
             }
 
-            // Calculate max sum if at least two numbers exist
             if (currList.size() == 2) {
                 maxSum = Math.max(maxSum, currList.get(0) + currList.get(1));
             }
