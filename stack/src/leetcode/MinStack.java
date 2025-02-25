@@ -1,5 +1,10 @@
+package leetcode;
+
 import java.util.Stack;
 
+/**
+ * 155. Min Stack
+ */
 public class MinStack {
 
     private final Stack<Integer> stack;
