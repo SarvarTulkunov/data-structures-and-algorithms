@@ -1,5 +1,5 @@
 # 51. N-Queens
-class Solution(object):
+class MergeKArrays(object):
     def solveNQueens(self, n):
         
         cols = ()
