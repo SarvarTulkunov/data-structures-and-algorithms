@@ -5,8 +5,6 @@ import java.util.Stack;
 
 public class P_739 {
 
-    // Input: temperatures = [73,74,75,71,69,72,76,73]
-    // Output: [1,1,4,2,1,1,0,0]
     public static int[] dailyTemperatures(int[] temperatures) {
 
         int[] result = new int[temperatures.length];
