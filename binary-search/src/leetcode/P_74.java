@@ -1,6 +1,6 @@
 package leetcode;
 
-public class P74 {
+public class P_74 {
     public static boolean searchMatrix(int[][] matrix, int target) {
 
         int m = matrix[0].length - 1;

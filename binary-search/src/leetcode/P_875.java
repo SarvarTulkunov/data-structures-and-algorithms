@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.Arrays;
 
-public class P875 {
+public class P_875 {
 
     public int minEatingSpeed(int[] piles, int h) {
 
