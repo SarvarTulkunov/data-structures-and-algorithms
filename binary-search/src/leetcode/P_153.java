@@ -2,7 +2,7 @@ package leetcode;
 
 public class P_153 {
 
-    public static int findMin(int[] nums) {
+    public int findMin(int[] nums) {
 
         int left = 0, right = nums.length - 1;
         int mid;
@@ -20,9 +20,4 @@ public class P_153 {
         return nums[left];
     }
 
-    public static void main(String[] args) {
-        System.out.println(findMin(new int[]{3, 4, 5, 6, 1, 2}));
-        System.out.println(findMin(new int[]{1, 2, 3, 4, 5, 6}));
-//        System.out.println(findMin(new int[]{3, 4, 5, 6, 1, 2}));
-    }
 }
