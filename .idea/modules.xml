@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/dynamic_programming/dynamic_programming.iml" filepath="$PROJECT_DIR$/dynamic_programming/dynamic_programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/graphs/graphs.iml" filepath="$PROJECT_DIR$/graphs/graphs.iml" />
       <module fileurl="file://$PROJECT_DIR$/greedy_technique/greedy_technique.iml" filepath="$PROJECT_DIR$/greedy_technique/greedy_technique.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linked-list/linked-list.iml" filepath="$PROJECT_DIR$/linked-list/linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/min_max_heap/min_max_heap.iml" filepath="$PROJECT_DIR$/min_max_heap/min_max_heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/sliding_window/sliding_window.iml" filepath="$PROJECT_DIR$/sliding_window/sliding_window.iml" />
       <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
