@@ -4,7 +4,7 @@ package leetcode;
  * 543. Diameter of Binary Tree
  */
 public class P_543 {
-    
+
     public int diameterOfBinaryTree(TreeNode root) {
         int[] res = new int[1];
         dfs(root, res);
