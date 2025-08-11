@@ -14,8 +14,4 @@ public class P_104 {
         return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
     }
 
-
-    public static void main(String[] args) {
-
-    }
 }
