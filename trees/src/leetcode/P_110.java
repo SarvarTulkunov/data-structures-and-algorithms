@@ -15,6 +15,8 @@ public class P_110 {
 
     private int[] dfs(TreeNode root) {
         if (root == null) {
+            // 0 index for identifying whether the tree structure so far is balanced or not
+            // 1 index for identifying the height of tree
             return new int[]{1, 0};
         }
 

@@ -10,7 +10,6 @@ import java.util.Stack;
  */
 public class P_100 {
 
-    private int ans = 1;
 
     /**
      * 1. Depth First Search
