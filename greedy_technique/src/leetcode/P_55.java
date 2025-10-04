@@ -18,7 +18,6 @@ public class P_55 {
             }
         }
 
-        // Replace this placeholder return statement with your code
         return currentTargetIndex == 0;
     }
     
